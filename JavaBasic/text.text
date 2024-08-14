@@ -1,0 +1,13 @@
+// Which name is not allowed as a variable declaration name:
+ 1.var true = 50;
+   var false = 50;
+ 2. var is happy= true;
+ 3.var 'address'=dhaka;
+ 4.var 3man = 68;
+ 5.var address=dhaka;
+   var Address=dhaka;
+6.var my current address= Comilla;
+7.Var price = 79;
+  vaR price = 56;
+8.var -money = 89;
+    
