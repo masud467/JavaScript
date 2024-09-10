@@ -27,3 +27,16 @@ var money4 = 35;
 console.log(money4)
 money4 %= 3;
 console.log(money4)
+
+
+const a = isNaN('11')
+console.log(a)
+
+const b= isNaN(2-10)
+console.log(b)
+
+const c= isNaN(2)
+console.log(c)
+
+const d= 'masud'
+console.log(isNaN(d))
